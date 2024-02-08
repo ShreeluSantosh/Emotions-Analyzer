@@ -11,7 +11,7 @@ Out of the 27 emotion labels used in the original research, I've classified them
 <ul>
 <li><b><u>Positive Emotions</u></b>: Amusement, Approval, Admiration, Caring, Curiosity, Desire, Excitement, Gratitude, Joy, Love, Optimism, Pride, Relief, 
 <li><b><u>Negtaive Emotions</u></b>: Anger, Annoyance, Disappointment, Disapproval, Disgust, Embarrassment, Fear, Grief, Nervousness, Remorse, Sadness
-<li><b><u>Neutral</u></b>: Realization, Surprise, Neutral (not included in the classification)
+<li><b><u>Neutral</u></b> (not included in the classification): Realization, Surprise, Neutral
 </ul>
 
 So far, the accuracy of my model for positive emotions is 61.9%  and for negative emotions, it is 43.32%
